@@ -1,5 +1,6 @@
+<img src="/media/me.png" align="right" />
 # Keith Daly
-![img](/media/me.png)
+![img](/.png)
 
 ## Education
 - GMIT BSc in Software Development
