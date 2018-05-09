@@ -1,7 +1,19 @@
-# dalykeith.github.io
+# Keith Daly
 
-This URL will redirect user to my domain keithdaly.me
+##Education
+- GMIT BSc in Software Development
+- GTI  Information Technology
+- St Josephs College
 
-keithdaly.me will redirect to another domain thesquaredtriangle.com
+##Work
+- Fintrax Intern
+- Clearbookings 
+- Apple
+- Dixons Retail
+- Photographer/Videographer
 
-This is my personal site to showcase Resume, projects, skill and achievements. 
+##Intrests
+- New Emerging Technologies
+- Triathalon and Weightlifting training
+- Gastronomy
+- Travel 
