@@ -1,6 +1,6 @@
 
 # Keith Daly
-![ ](/media/me.png | width=100)
+![ ](/media/me.png)
 
 ## Education
 - GMIT BSc in Software Development
