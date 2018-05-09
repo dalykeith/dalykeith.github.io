@@ -1,4 +1,3 @@
-
 # Keith Daly
 <img src="/media/me.png" width="400" height="296">
 
