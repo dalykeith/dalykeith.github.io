@@ -1,6 +1,6 @@
 
 # Keith Daly
-![ ](/media/me.png)
+<img src="/media/me.png" width="400" height="296">
 
 ## Education
 - GMIT BSc in Software Development
@@ -19,7 +19,6 @@
 - Triathalon and Weightlifting training
 - Gastronomy
 - Travel 
-
 
 [Linkedin](https://www.linkedin.com/in/keith-daly-b6b777a5)
 
