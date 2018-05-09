@@ -1,18 +1,18 @@
 # Keith Daly
 
-##Education
+## Education
 - GMIT BSc in Software Development
 - GTI  Information Technology
 - St Josephs College
 
-##Work
+## Work
 - Fintrax Intern
 - Clearbookings 
 - Apple
 - Dixons Retail
 - Photographer/Videographer
 
-##Intrests
+## Intrests
 - New Emerging Technologies
 - Triathalon and Weightlifting training
 - Gastronomy
