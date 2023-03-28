@@ -14,6 +14,7 @@ A template for the Unemployables who need to showcase their creative work, whate
 &nbsp;&nbsp;&nbsp;<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#adding-images-to-the-project-gallery">Adding gallery images</a></br>
 <a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#publishing-with-github-pages">Publishing with Github Pages</a></br>
 <br />
+
 <br />
 
 ## About this template
