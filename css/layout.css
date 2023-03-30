@@ -55,14 +55,15 @@ body {
   flex-direction: column;
   gap: 34px;
   flex-basis: 50%;
+  border: solid;
 }
 
-
+/*
 .subheader-text {
   text-align: center;
   border: solid;
 }
-
+*/
 
 
 
